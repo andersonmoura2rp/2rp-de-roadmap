@@ -1,6 +1,6 @@
 #!/bin/bash
 #curso shell script tarefa 2rp
-echo "Digite o diretório desejado: "
+echo "Digite o diretório desejado: Subdir1 ou Subdir2? "
 read entry
 
 echo
